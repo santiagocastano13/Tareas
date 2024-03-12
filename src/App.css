@@ -1,0 +1,75 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
+
+.tarea{
+  width: 20rem;
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: double #fff;
+}
+
+.botones{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.resultado{
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  height: 40vh;
+  background-color: #484747;
+  border-radius: 4px;
+}
+
+.final{
+  background-color: #242424;
+  width: 100%;
+  height: 10vh;
+  border-radius: 10px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 1rem 0;
+}
+
+ul{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input{
+  padding: .5rem 2rem;
+  margin-bottom: 1rem;
+}
+
+textarea{
+  width: 10rem;
+  height: 6rem;
+  padding: 2rem
+}
+hr{
+  width: 100%;
+}
+
+
